@@ -1,0 +1,43 @@
+/* */
+
+.menu {
+  background-color: #433d3c;
+  border-collapse: separate;
+  border-spacing: 0 1em;
+  display: block;
+  height: 40px;
+  text-align: left;
+}
+
+.text {
+  display: inline-block;
+  margin: 0;
+  text-align: center;
+
+}
+
+.img {
+  background-image: url("shell-bckgrnd.png");
+  color: #f05454;
+  display: block;
+  font-family: lobster;
+  height: 780px;
+  margin-left: 150px;
+  padding-top: 10px;
+  width: 1500px;
+}
+
+.footer {
+  display: block;
+  text-align: left;
+}
+
+body {
+  /*background-image: url("sky-blue.jpeg");*/
+  background-color: #0278ae;
+  color: #fcf8ec;
+  font-family: fantasy;
+  margin: 0;
+  text-align: center;
+
+}
