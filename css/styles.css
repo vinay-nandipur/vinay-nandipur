@@ -5,6 +5,7 @@
   border-spacing: 0 1rem;
   display: block;
   height: 2rem;
+  margin: 1rem;
   text-align: left;
 }
 
@@ -27,6 +28,7 @@
 .footer {
   display: block;
   line-height: 2rem;
+  margin: 1rem;
   text-align: left;
 }
 
