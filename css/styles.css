@@ -1,4 +1,4 @@
-/* */
+/* My Custom Styles */
 .menu {
   background-color: #433d3c;
   border-collapse: separate;
@@ -34,7 +34,8 @@
 
 body {
   /*background-image: url("sky-blue.jpeg");*/
-  background-color: #0278ae;
+  /*background-color: #0278ae;*/
+  background-color: #433d3c;
   color: #fcf8ec;
   font-family: fantasy;
   margin: auto;
