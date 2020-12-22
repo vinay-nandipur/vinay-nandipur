@@ -20,11 +20,13 @@
   display: block;
   font-family: lobster;
   height: 50rem;
+  line-height: 4rem;
   margin: 1rem;
 }
 
 .footer {
   display: block;
+  line-height: 2rem;
   text-align: left;
 }
 
