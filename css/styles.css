@@ -32,6 +32,15 @@
   text-align: left;
 }
 
+.copyright, .link-color {
+  color: #fcf8ec;
+}
+
+.bottom-container {
+  background-color: inherit;
+  padding: 50px 0;
+}
+
 body {
   /*background-image: url("sky-blue.jpeg");*/
   /*background-color: #0278ae;*/
