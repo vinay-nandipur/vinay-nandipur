@@ -1,31 +1,32 @@
 /* My Custom Styles */
 .menu {
   background-color: #433d3c;
-  border-collapse: separate;
-  border-spacing: 0 1rem;
   display: block;
-  height: 2rem;
-  margin: 1rem;
+  line-height: 2rem;
+  padding: 1rem 0;
   text-align: left;
 }
 
 .text {
   display: inline-block;
+  font-size: 1rem;
   margin: auto;
   text-align: center;
 }
 
 .img {
   background-image: url("shell-bckgrnd.png");
-  color: #f05454;
+  color: #fcf8ec;
   display: block;
-  font-family: lobster;
+  font-family: fantasy;
+  font-size: 1rem;
   height: 50rem;
   line-height: 4rem;
   margin: 1rem;
 }
 
 .footer {
+  background-color: #393e46;
   display: block;
   line-height: 2rem;
   margin: 1rem;
@@ -37,14 +38,14 @@
 }
 
 .bottom-container {
-  background-color: inherit;
-  padding: 50px 0;
+  background-color: #433d3c;
+  display: block;
+  line-height: 2rem;
+  padding: 1rem 0;
 }
 
 body {
-  /*background-image: url("sky-blue.jpeg");*/
-  /*background-color: #0278ae;*/
-  background-color: #433d3c;
+  background-image: url("bg-img.png");
   color: #fcf8ec;
   font-family: fantasy;
   margin: auto;
